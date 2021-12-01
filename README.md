@@ -1,2 +1,3 @@
 # WristLeftS
-[![실행 영상](https://youtu.be/ntgAw3uyRoI/0.jpg)](https://youtu.be/ntgAw3uyRoI)
+
+<iframe width="1037" height="559" src="https://www.youtube.com/embed/u6N7IweR46c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
